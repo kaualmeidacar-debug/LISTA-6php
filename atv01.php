@@ -40,7 +40,7 @@ do {
 
     // Vai reptir se o valor for: 1!
 } while ($continuar == 1);
-
+echo("<hr>");
 echo ("<br>Quantidade de produtos: $quantidade <br>");
 echo ("Total da compra: R$ $total");
 
